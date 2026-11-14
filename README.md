@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome Awesome Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Document-Management-Cloud-Storage/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Management-Cloud-Storage?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Management-Cloud-Storage/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Management-Cloud-Storage?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Management-Cloud-Storage/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Management-Cloud-Storage?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -61,7 +61,7 @@ Curated open-source projects for self-hosted document storage, cloud workspaces,
 
 *Ranked descending by GitHub Stargazers:*
 
-| Project | Stars | Description | Focus / Key Capabilities |
+| Project | GitHub_Stars | Description | Focus / Key Capabilities |
 |:---|:---|:---|:---|
 | **[Syncthing](https://github.com/syncthing/syncthing)** | [![Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers) | Continuous, peer-to-peer decentralized file synchronization protocol and engine. | **P2P Continuous Sync**: Syncs files across desktop, mobile, and server nodes without passing through a third-party central server; TLS encryption and block-level transfer. |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | "The Swiss army knife of cloud storage" — command-line program to manage and sync files on cloud storage. | **Multi-Cloud Sync & FUSE Mount**: Supports 70+ cloud storage backends (S3, B2, Google Drive, OneDrive); provides file encryption, cache, and mount capabilities. |
