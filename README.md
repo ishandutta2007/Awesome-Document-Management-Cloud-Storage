@@ -1,22 +1,37 @@
-# Awesome Document Management & Cloud Storage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Document Management &amp; Cloud Storage Banner" width="100%" />
+</p>
 
-> A curated list of top SaaS platforms and open-source GitHub projects for document management, cloud file storage, enterprise content management (ECM), and self-hosted team collaboration.
+# Awesome Document Management & Cloud Storage
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome Awesome Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Management-Cloud-Storage/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Management-Cloud-Storage?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Management-Cloud-Storage/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Management-Cloud-Storage?style=social&color=white" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 📚 A curated list of top SaaS platforms and open-source GitHub projects for document management, cloud file storage, enterprise content management (ECM), and self-hosted team collaboration.
 
 Discover modern solutions for storing, syncing, sharing, indexing, and governing digital files across teams—ranging from consumer and enterprise cloud storage services to self-hosted document management systems with automated OCR, metadata taxonomy, full-text search, and regulatory compliance audit trails.
 
 ---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Cloud Platforms](#saashosted-cloud-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Choose: Architecture & Workload Guide](#how-to-choose-architecture--workload-guide)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Cloud Platforms](#️-saas--hosted-cloud-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧭 How to Choose: Architecture & Workload Guide](#-how-to-choose-architecture--workload-guide)
+- [📈 Star History](#star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global Document Management System (DMS) market is estimated at **$10–$12 billion** (projected to reach **$20–$26 billion by 2032** at an 11–13% CAGR), while the broader underlying cloud storage infrastructure market exceeds **$100 billion** tracking toward $200+ billion. 
 
@@ -24,7 +39,7 @@ The market dynamics exhibit **moderate fragmentation with an oligopolistic infra
 
 ---
 
-## SaaS/Hosted Cloud Platforms
+## ☁️ SaaS & Hosted Cloud Platforms
 
 The table below lists leading commercial Document Management and Cloud Storage SaaS platforms, ranked descending by company size (valuation / market capitalization / enterprise scale).
 
@@ -40,7 +55,7 @@ The table below lists leading commercial Document Management and Cloud Storage S
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Curated open-source projects for self-hosted document storage, cloud workspaces, electronic document records management (EDRMS), and continuous multi-device file synchronization. 
 
@@ -67,26 +82,43 @@ Curated open-source projects for self-hosted document storage, cloud workspaces,
 
 ---
 
-## How to Choose: Architecture & Workload Guide
+## 🧭 How to Choose: Architecture & Workload Guide
 
 When designing an organizational document infrastructure or selecting a cloud storage stack, consider the distinct operational boundaries between daily file sync and document archiving:
 
-1. **Daily Teamwork & Multi-Device Sync:**
+1. ⚡ **Daily Teamwork & Multi-Device Sync:**
    - For complete collaborative workspaces replacing Google Drive / Microsoft 365, pick **Nextcloud** (all-in-one suite) or **ownCloud Infinite Scale (oCIS)** (lean, high-throughput Go architecture).
    - For rapid synchronization of massive repositories containing millions of files, choose **Seafile** (block-level deduplication) or **Syncthing** (peer-to-peer decentralized sync).
    - For multi-cloud management and server backup staging, deploy **Rclone**.
 
-2. **Digital Archiving, Invoices & OCR Document Governance:**
+2. 🔍 **Digital Archiving, Invoices & OCR Document Governance:**
    - For digitizing household receipts, statements, and organizational invoices, use **Paperless-ngx** (automatic Tesseract OCR and PDF/A archiving) or **Docspell**.
    - For legal, healthcare, or financial compliance requiring multi-stage approval workflows, granular role-based access control (RBAC), and digital signatures, deploy **Mayan EDMS** or **LogicalDOC**.
 
-3. **Privacy & Client-Side Encryption:**
+3. 🔐 **Privacy & Client-Side Encryption:**
    - To add zero-knowledge encryption on top of existing cloud drives (Dropbox, OneDrive, Google Drive), utilize **Cryptomator**.
    - For end-to-end encrypted personal media and file storage, evaluate **Ente**.
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Document-Management-Cloud-Storage&type=Date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Document-Management-Cloud-Storage&type=Date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring this ecosystem! If you found this curated list helpful for your projects, infrastructure, or team, please consider supporting its continued maintenance:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and contribute** new open-source projects or SaaS updates.
+- 📢 **Share with your colleagues** in DevOps, SysAdmin, and developer communities.
+- ☕ **Buy me a coffee & become a sponsor**: Support ongoing research and maintenance directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
 
 Contributions, project additions, and corrections are welcome!
 1. Fork this repository.
@@ -96,7 +128,7 @@ Contributions, project additions, and corrections are welcome!
 
 ---
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This list is community-maintained for informational and architectural comparison purposes.
 - Document and cloud storage systems manage critical and regulated business data. Always implement strict role-based access control (RBAC), automated offsite backups, and end-to-end encryption in transit and at rest.
