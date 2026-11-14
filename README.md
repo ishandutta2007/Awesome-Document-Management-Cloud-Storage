@@ -1,6 +1,6 @@
 # Awesome-Document-Management-Cloud-Storage
 
-# Top Document Management & Cloud Storage Ecosystem
+## Top Document Management & Cloud Storage Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on File Sync, Document Governance & Self-Hosted Collaboration*  
